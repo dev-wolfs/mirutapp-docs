@@ -1,2 +1,2 @@
-# docs-capstone
-Documentación grupo Capstone
+# MiRutApp
+Documentación del proyecto MiRutApp.
